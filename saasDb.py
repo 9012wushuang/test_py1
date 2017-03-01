@@ -10,10 +10,10 @@ import logging
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s-%(levelname)s-%(message)s')
 
-host = '123.57.6.101'
-user = 'edianzu_dev'
-password = 'aedianazu321'
-db = 'db_cloud_assets'
+host = ''
+user = ''
+password = ''
+db = ''
 port = 3306
 
 

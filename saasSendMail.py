@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s-%(levelname)s-%(mes
 host = 'smtp.exmail.qq.com'
 port = 25  # 25 为 SMTP 端口号
 mail_user = 'bifenghui@edianzu.cn'
-mail_pass = 'asnMM5396362'
+mail_pass = ''
 
 sender = 'bifenghui@edianzu.cn'
 receivers = ['bifenghui@edianzu.cn']
